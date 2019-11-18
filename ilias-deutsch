@@ -28,7 +28,7 @@ lti#:#user_lng#:#Benutzersprache
 lti#:#lti_create_consumer#:#Konsumenten hinzufügen
 lti#:#lti_object_consumer#:#LTI-Konsumenten
 lti#:#lti_settings#:#LTI-Einstellungen
-lti#:#lti_consumer_created#:#Konsument hinzugefügt
+lti#:#lti_consumer_created#:#Konsument*in hinzugefügt
 lti#:#lti_consumer_updated#:#Konsument aktualisiert
 lti#:#lti_consumer_deleted#:#Konsument gelöscht
 lti#:#lti_consumer_set_active#:#Konsument aktiviert
